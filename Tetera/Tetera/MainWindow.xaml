@@ -1,0 +1,38 @@
+﻿<Window x:Class="Tetera.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tetera"
+        mc:Ignorable="d"
+    
+        Title="MainWindow" Height="450" Width="800"
+        xmlns:sharpGL="clr-namespace:SharpGL.WPF;assembly=SharpGL.WPF">
+    <Grid>
+        <sharpGL:OpenGLControl 
+                       x:Name="openGLControl"
+                       OpenGLInitialized="iniciar" 
+                       OpenGLDraw="openGLControl_OpenGLDraw"
+                       Margin="247,0,0,0"
+                       HorizontalAlignment="Left" RenderTransformOrigin="0.5,0.5" Width="553" >
+            <sharpGL:OpenGLControl.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </sharpGL:OpenGLControl.RenderTransform>
+        </sharpGL:OpenGLControl>
+
+
+        <StackPanel Orientation="Vertical" Margin="10">
+            <CheckBox x:Name="chkAmbient" Content="Modelo de luz Ambiental" IsChecked="True"/>
+            <CheckBox x:Name="chkGlobalAmbient" Content="Modelo de Luz Ambiental Global" IsChecked="True"/>
+            <CheckBox x:Name="chkLightPosition" Content="Posición de la Luz" IsChecked="True" />
+            <CheckBox x:Name="chkAmbientLight" Content="Luz Ambiental" IsChecked="True" Margin="0,10,0,0"/>
+            <CheckBox x:Name="chkDiffuseLight" Content="Luz Difusa" IsChecked="True"/>
+            <CheckBox x:Name="chkSpecularLight" Content="Luz Especular" IsChecked="True"/>
+            </StackPanel>
+    </Grid>
+</Window>
