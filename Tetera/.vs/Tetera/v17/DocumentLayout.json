@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\",
+  "WorkspaceRootPath": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2537B03B-D829-44D4-9AD4-DB96D8049077}|Tetera\\Tetera.csproj|c:\\users\\cristobalo.o\\desktop\\terera\\tetera\\tetera\\tetera\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{2537B03B-D829-44D4-9AD4-DB96D8049077}|Tetera\\Tetera.csproj|c:\\users\\cristobalo.o\\desktop\\terera\\tetera\\tetera\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{2537B03B-D829-44D4-9AD4-DB96D8049077}|Tetera\\Tetera.csproj|solutionrelative:tetera\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2537B03B-D829-44D4-9AD4-DB96D8049077}|Tetera\\Tetera.csproj|c:\\users\\cristobalo.o\\desktop\\terera\\tetera\\tetera\\tetera\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{2537B03B-D829-44D4-9AD4-DB96D8049077}|Tetera\\Tetera.csproj|c:\\users\\cristobalo.o\\desktop\\terera\\tetera\\tetera\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{2537B03B-D829-44D4-9AD4-DB96D8049077}|Tetera\\Tetera.csproj|solutionrelative:tetera\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -24,25 +24,25 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\Tetera\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Tetera\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\Tetera\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\MainWindow.xaml.cs",
               "RelativeToolTip": "Tetera\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAHwAAAAAAAAAAAAwwMMAAABHAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-03T20:05:12.763Z",
+              "WhenOpened": "2025-05-05T23:50:10.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\Tetera\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Tetera\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\Tetera\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\MainWindow.xaml",
               "RelativeToolTip": "Tetera\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-05-03T16:58:30.533Z"
+              "WhenOpened": "2025-05-05T23:50:10.903Z"
             }
           ]
         }

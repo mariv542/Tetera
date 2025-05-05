@@ -28,6 +28,7 @@ C:\Users\mariv\Desktop\Tetera\Tetera\Tetera\bin\Debug\net8.0-windows\runtimes\li
 C:\Users\mariv\Desktop\Tetera\Tetera\Tetera\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libassimp.dylib
 C:\Users\mariv\Desktop\Tetera\Tetera\Tetera\bin\Debug\net8.0-windows\runtimes\win-x64\native\assimp.dll
 C:\Users\mariv\Desktop\Tetera\Tetera\Tetera\bin\Debug\net8.0-windows\runtimes\win-x86\native\assimp.dll
+<<<<<<< HEAD
 C:\Users\cristobalO.O\Desktop\Terera\Tetera\Tetera\Tetera\bin\Debug\net8.0-windows\Tetera.exe
 C:\Users\cristobalO.O\Desktop\Terera\Tetera\Tetera\Tetera\bin\Debug\net8.0-windows\Tetera.deps.json
 C:\Users\cristobalO.O\Desktop\Terera\Tetera\Tetera\Tetera\bin\Debug\net8.0-windows\Tetera.runtimeconfig.json
@@ -59,3 +60,13 @@ C:\Users\cristobalO.O\Desktop\Terera\Tetera\Tetera\Tetera\obj\Debug\net8.0-windo
 C:\Users\cristobalO.O\Desktop\Terera\Tetera\Tetera\Tetera\obj\Debug\net8.0-windows\Tetera.pdb
 C:\Users\cristobalO.O\Desktop\Terera\Tetera\Tetera\Tetera\obj\Debug\net8.0-windows\Tetera.genruntimeconfig.cache
 C:\Users\cristobalO.O\Desktop\Terera\Tetera\Tetera\Tetera\obj\Debug\net8.0-windows\ref\Tetera.dll
+=======
+>>>>>>> 0d4959ba7f61f96a854ce1696a46355c983a40b5
+C:\Users\cristobalO.O\Desktop\Terera\Tetera\Tetera\obj\Debug\net8.0-windows\Tetera.csproj.AssemblyReference.cache
+C:\Users\cristobalO.O\Desktop\Terera\Tetera\Tetera\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\cristobalO.O\Desktop\Terera\Tetera\Tetera\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\cristobalO.O\Desktop\Terera\Tetera\Tetera\obj\Debug\net8.0-windows\Tetera_MarkupCompile.cache
+C:\Users\cristobalO.O\Desktop\Terera\Tetera\Tetera\obj\Debug\net8.0-windows\Tetera_MarkupCompile.lref
+C:\Users\cristobalO.O\Desktop\Terera\Tetera\Tetera\obj\Debug\net8.0-windows\Tetera.dll
+C:\Users\cristobalO.O\Desktop\Terera\Tetera\Tetera\obj\Debug\net8.0-windows\refint\Tetera.dll
+C:\Users\cristobalO.O\Desktop\Terera\Tetera\Tetera\obj\Debug\net8.0-windows\Tetera.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YfPcM2eio2I=",
+  "dgSpecHash": "BIl/d8neRJg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\Tetera\\Tetera.csproj",
+  "projectFilePath": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\Tetera.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cristobalO.O\\.nuget\\packages\\assimpnet\\4.1.0\\assimpnet.4.1.0.nupkg.sha512",
     "C:\\Users\\cristobalO.O\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
@@ -86,5 +86,12 @@
     "C:\\Users\\cristobalO.O\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\cristobalO.O\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

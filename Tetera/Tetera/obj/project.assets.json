@@ -4976,11 +4976,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\Tetera\\Tetera.csproj",
+      "projectUniqueName": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\Tetera.csproj",
       "projectName": "Tetera",
-      "projectPath": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\Tetera\\Tetera.csproj",
+      "projectPath": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\Tetera.csproj",
       "packagesPath": "C:\\Users\\cristobalO.O\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\Tetera\\obj\\",
+      "outputPath": "C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5058,5 +5058,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problema al leer el archivo de caché C:\\Users\\cristobalO.O\\Desktop\\Terera\\Tetera\\Tetera\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
